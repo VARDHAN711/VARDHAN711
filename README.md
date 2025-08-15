@@ -10,8 +10,8 @@ Open for collaboration on projects!
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mourya-vardhan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/mourya-vardhan-16a467305)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mourya_Vardhan/)
 
 ---
 
@@ -33,19 +33,19 @@ Open for collaboration on projects!
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VARDHAN711&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=VARDHAN711&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VARDHAN711&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=react&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=VARDHAN711&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VARDHAN711&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -62,7 +62,7 @@ Open for collaboration on projects!
 - JSON Web Token (JWT) for authentication  
 - Sessions and Middleware  
 
-🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/DailyDash)
+🔗 [View Repository](https://github.com/VARDHAN711/DailyDash)
 
 ---
 
@@ -71,6 +71,6 @@ Open for collaboration on projects!
 **🌐 Frontend:** HTML, CSS, JavaScript  
 **⚙️ Backend:** Node.js, Express.js  
 
-🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/E-Commerce_Website)
+🔗 [View Repository](https://github.com/VARDHAN711/E-Commerce_Website)
 
 ---
